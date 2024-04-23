@@ -1,10 +1,11 @@
-# React Js Budget calculator
+# React Js Budget Calculator Project
 
 ## Frontend Technologies
-react, redux, redux toolkit, React router Dom and others
+Reactjs, Tailiwnd css, redux, redux toolkit, React router Dom and others
 
 ## Backned Technologies
-Nodejs, Mysql, and sequelize oRM
+Nodejs, Mysql, and sequelize ORM. 
+[Backend URL Github: ](https://github.com/AbdirahmanDirie/nodejs-mysql-sqeuelize-orm) 
 
 ## Login Page 
 ![alt text](login.png)
